@@ -1,0 +1,22 @@
+{
+  "name": "team-pro",
+  "version": "1.0.0",
+  "description": "AS A manager\r I WANT to generate a webpage that displays my team's basic info\r SO THAT I have quick access to their emails and GitHub profiles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jay1194/-Team-Profile-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jay1194/-Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/Jay1194/-Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
